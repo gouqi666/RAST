@@ -3,7 +3,7 @@
 # process data
 1. download data in data/{dataset_name}   
 2. python process_data.py --dataset={dataset_name}  
-   2.1 process_squad_split1(path)   ---  preprocess  
+   2.1 process_squad_{dataset_name}(path)   ---  preprocess  
    2.2 process_v3(path)             ---  extract skeleton  
    2.3 corrupt(path)                ---  corrupt skeleton  
    2.4 process_for_with_null_skeleton(path)   ---  use for  qg model initial training  
