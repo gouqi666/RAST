@@ -7,12 +7,12 @@ mode
    is_use_skeleton = False
    flag = processed
    output_file = experiments_vanilla
-
+   is_use_skeleton=False
 2. init training
    is_use_skeleton = True
    flag = processed_with_null_skeleton
    output_file = experiments_nucleus_sampling
-
+   is_use_skeleton=True
 SQuAD_1.1_split_1   
 ```
 home=${home_path}

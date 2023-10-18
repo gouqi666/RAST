@@ -1,4 +1,5 @@
 #!/bin/bash -e
+refer to readme_v100.md
 '''
 SQuAD_1.1_split1
 '''

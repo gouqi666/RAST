@@ -1,5 +1,4 @@
 ### SQuAD_1.1_split1
-params:
 
 ```
 export CUDA_VISIBLE_DEVICES=1
