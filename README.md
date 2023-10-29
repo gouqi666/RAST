@@ -1,8 +1,19 @@
 # RAST
-Our paper link: [Diversify Question Generation with Retrieval-Augmented Style Transfer]()  
-- we provide our processed_data in [data_link]().
-- we also provide our model checkpoint in [checkpoint_link]().
+This repository contains code for the paper [Diversify Question Generation with Retrieval-Augmented Style Transfer](https://arxiv.org/pdf/2310.14503.pdf)  
+- we provide our processed_data in [data_link](https://drive.google.com/drive/folders/1eZ8_01Sg_xgz4z947nANGH38QCXWKm7c?usp=drive_link).
+- we also provide our model checkpoint in [checkpoint_link](https://drive.google.com/drive/folders/1EYwBbkSr-6oCI4JDX35tXb_V-abwRPgU?usp=drive_link).
 - if you use our repository, please cite [paper]().
+If you find this code useful in your research, please consider citing:
+```
+@misc{gou2023diversify,
+      title={Diversify Question Generation with Retrieval-Augmented Style Transfer}, 
+      author={Qi Gou and Zehua Xia and Bowen Yu and Haiyang Yu and Fei Huang and Yongbin Li and Nguyen Cam-Tu},
+      year={2023},
+      eprint={2310.14503},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 # To reproduce
 ## 1. download data
 - squad1.1, zhou split  
